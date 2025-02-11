@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>CC BY-SA 4.0</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 19:48:22 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 20:10:29 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bewusstseinsstörungen</title>
@@ -271,6 +271,41 @@ Bsp:</p>
 <li>Pflaster, Kontamet Box</li>
 <li>Lanzette, Teststreifen / Kapillarblutrüchen mit Namensetikett</li>
 </ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Code of Conflict</title>
+      <link>http://localhost:1313/code/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/code/</guid>
+      <description>&lt;p&gt;The development effort of futurenursing.at is a very personal process compared to &amp;ldquo;traditional&amp;rdquo; ways of developing a community website. Your recommendations and ideas behind it will be carefully reviewed, often resulting in critique and criticism. Know that this happens because everyone involved wants to see the best possible solution for the overall success of futurenursing.at.&lt;/p&gt;
+&lt;p&gt;If however, anyone feels personally abused, threatened, or otherwise uncomfortable due to this process, that is not acceptable. If so, please contact me at &lt;a href=&#34;mailto:titanz@pm.me&#34;&gt;titanz@pm.me&lt;/a&gt; or the individual members, and they will work to resolve the issue to the best of their ability.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The development effort of futurenursing.at is a very personal process compared to &ldquo;traditional&rdquo; ways of developing a community website. Your recommendations and ideas behind it will be carefully reviewed, often resulting in critique and criticism. Know that this happens because everyone involved wants to see the best possible solution for the overall success of futurenursing.at.</p>
+<p>If however, anyone feels personally abused, threatened, or otherwise uncomfortable due to this process, that is not acceptable. If so, please contact me at <a href="mailto:titanz@pm.me">titanz@pm.me</a> or the individual members, and they will work to resolve the issue to the best of their ability.</p>
+<p>As a maintainer or collaborator of futurenursing.at, please strive to keep things civil and focused on the nursing topic. We are all humans, and frustration can be high on both sides of the process. Try to keep in mind the immortal words of Bill and Ted: &ldquo;Be excellent to each other.&rdquo;</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;FutureNursing.at is made by a group of enthusiastic individuals looking to provide practical nursing infos for the end user. We are ongoing nurses in education&amp;hellip; generally people with healthcare knowledge and work in the field.&lt;/p&gt;
+&lt;p&gt;We focus on in-depth anatomy, healthcare and studies, not ideologies and politics.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;lukas&#34;&gt;Lukas&lt;/h3&gt;
+&lt;p&gt;Benevolent dictator for life @FutureNursing.at. Ongoing Nurse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a href=&#34;https://conorz.at&#34;&gt;conorz.at&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Matrix&lt;/strong&gt;: &lt;a href=&#34;https://matrix.to/#/@titanz:conorz.at&#34;&gt;@titanz:conorz.at&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:titanz@pm.me&#34;&gt;titanz@pm.me&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>FutureNursing.at is made by a group of enthusiastic individuals looking to provide practical nursing infos for the end user. We are ongoing nurses in education&hellip; generally people with healthcare knowledge and work in the field.</p>
+<p>We focus on in-depth anatomy, healthcare and studies, not ideologies and politics.</p>
+<hr>
+<h3 id="lukas">Lukas</h3>
+<p>Benevolent dictator for life @FutureNursing.at. Ongoing Nurse.</p>
+<p><strong>Website</strong>: <a href="https://conorz.at">conorz.at</a><br>
+<strong>Matrix</strong>: <a href="https://matrix.to/#/@titanz:conorz.at">@titanz:conorz.at</a><br>
+<strong>Email</strong>: <a href="mailto:titanz@pm.me">titanz@pm.me</a></p>
 ]]></content:encoded>
     </item>
   </channel>
