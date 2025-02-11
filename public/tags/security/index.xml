@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>FutureNursing - /dev/urandom for nursing stuff</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on FutureNursing - /dev/urandom for nursing stuff</description>
+    <title>Security on FutureNursing - /dev/urandom for nursing stuff</title>
+    <link>http://localhost:1313/tags/security/</link>
+    <description>Recent content in Security on FutureNursing - /dev/urandom for nursing stuff</description>
     <image>
       <title>FutureNursing - /dev/urandom for nursing stuff</title>
       <url>http://localhost:1313/futurenursing.png</url>
@@ -12,12 +12,12 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>CC BY-SA 4.0</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bewusstseinsstörungen</title>
+      <title>Firewalling with MirageOS on Qubes OS</title>
       <link>http://localhost:1313/posts/mp2/bewusstsein/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/mp2/bewusstsein/</guid>
       <description>&lt;h1 id=&#34;bw-störungen&#34;&gt;BW Störungen&lt;/h1&gt;
 &lt;p&gt;Somnolenz, Sopor, Koma

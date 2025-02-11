@@ -12,6 +12,21 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>CC BY-SA 4.0</copyright>
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bewusstsein</title>
+      <link>http://localhost:1313/tags/bewusstsein/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bewusstsein/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MP2</title>
+      <link>http://localhost:1313/tags/mp2/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mp2/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
