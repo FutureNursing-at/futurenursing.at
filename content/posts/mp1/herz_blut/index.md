@@ -9,7 +9,7 @@ author: Lukas
 Lage zwischen beide Lungenflügel, auf den Diaphragma hinter dem Brustbein, zu zwei
 drittel im Linken Brustraum. (Oder auch das Herz liegt im Mediastinom sinister)
 Anatomie ein muskuläres Hohlorgan, Form einer Umgedrehten Pyramiede, ca 12 cm
-lang 8cm brei *Frausgroß, Gewicht ca 300g, 4 Hohlräume, 4 Herzklappen
+lang 8cm breit Fausgroß, Gewicht ca 300g, 4 Hohlräume, 4 Herzklappen
 Atrium (Vorhof) Ventrikel (Kammer)
 
 **Brennen sie die Herzklappen vom rechten Vorhof in die Richtung des Blutflusses**
