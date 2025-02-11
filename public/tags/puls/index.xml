@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on FutureNursing - /dev/urandom for nursing stuff</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on FutureNursing - /dev/urandom for nursing stuff</description>
+    <title>Puls on FutureNursing - /dev/urandom for nursing stuff</title>
+    <link>http://localhost:1313/tags/puls/</link>
+    <description>Recent content in Puls on FutureNursing - /dev/urandom for nursing stuff</description>
     <image>
       <title>FutureNursing - /dev/urandom for nursing stuff</title>
       <url>http://localhost:1313/futurenursing.png</url>
@@ -12,81 +12,8 @@
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>CC BY-SA 4.0</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 07:57:45 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bewusstseinsstörungen</title>
-      <link>http://localhost:1313/posts/mp2/bewusstsein/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mp2/bewusstsein/</guid>
-      <description>&lt;h1 id=&#34;bw-störungen&#34;&gt;BW Störungen&lt;/h1&gt;
-&lt;p&gt;Somnolenz, Sopor, Koma
-Man unterscheidet zwischen einer verminderten Bewusstseinslage (Somnolenz, Sopor, Koma) und einer gesteigerten Bewusstseinslage (Bewusstseinshelligkeit)
-Somnolenz: abnorme Schläfrigkeit, leichteste Form der BW- Verminderung
-Sopor: schwere Bewusstseinseintrübung
-Koma: schwere, tiefe bewusstlosigkeit&lt;/p&gt;
-&lt;h1 id=&#34;qualitative-bewusstseinstörungen&#34;&gt;Qualitative Bewusstseinstörungen&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Betrifft die Inhalte des Bewusstseins und sind durch gestörte psychische Abläufe definiert, einige Formen:
-&lt;ul&gt;
-&lt;li&gt;Wahnvorstellungen: Falsche, anhaltande Überzeugungen, die nicht durch Vernunft oder widersprüchliche Beweise beeinflusst werden können&lt;/li&gt;
-&lt;li&gt;Halluzinationen: Wahrnehmungen die nicht existieren&lt;/li&gt;
-&lt;li&gt;BW-Einengungen: Aufmerksamkeit auf wenige Inhalte fixiert, andere Aspekte werden ausgeblendet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;orientierung&#34;&gt;Orientierung&lt;/h1&gt;
-&lt;p&gt;Störungen können:&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h1 id="bw-störungen">BW Störungen</h1>
-<p>Somnolenz, Sopor, Koma
-Man unterscheidet zwischen einer verminderten Bewusstseinslage (Somnolenz, Sopor, Koma) und einer gesteigerten Bewusstseinslage (Bewusstseinshelligkeit)
-Somnolenz: abnorme Schläfrigkeit, leichteste Form der BW- Verminderung
-Sopor: schwere Bewusstseinseintrübung
-Koma: schwere, tiefe bewusstlosigkeit</p>
-<h1 id="qualitative-bewusstseinstörungen">Qualitative Bewusstseinstörungen</h1>
-<ul>
-<li>Betrifft die Inhalte des Bewusstseins und sind durch gestörte psychische Abläufe definiert, einige Formen:
-<ul>
-<li>Wahnvorstellungen: Falsche, anhaltande Überzeugungen, die nicht durch Vernunft oder widersprüchliche Beweise beeinflusst werden können</li>
-<li>Halluzinationen: Wahrnehmungen die nicht existieren</li>
-<li>BW-Einengungen: Aufmerksamkeit auf wenige Inhalte fixiert, andere Aspekte werden ausgeblendet</li>
-</ul>
-</li>
-</ul>
-<h1 id="orientierung">Orientierung</h1>
-<p>Störungen können:</p>
-<ul>
-<li>zeitlich</li>
-<li>Örtlich</li>
-<li>Situativ</li>
-<li>die eigene Person
-betreffend sein.</li>
-</ul>
-<h1 id="was-verstehen-sie-unter-gesundem-schlaf">Was verstehen sie unter gesundem Schlaf</h1>
-<p>Als gesundem Schlaf bezeichnet man:</p>
-<ul>
-<li>der sich kurz nach dem Zubettgehen einstellt,</li>
-<li>der betreffend der Dauer dem Alter angemessen ist,</li>
-<li>nicht durch mehrmaliges Aufwachen gestört und</li>
-<li>am Morgen als erhohlsam empfunden wird.</li>
-</ul>
-<h1 id="schlaf--wachrythmus">Schlaf- Wachrythmus</h1>
-<ul>
-<li>Steuerung erfolgt über Fomatio reticularis - spezialisierte Zellen im Thalamus, Hinrstamm und oberes Rückenmarks</li>
-<li>Zirkadianer Rythmus, relativ exakt auf 24h eines Tages</li>
-<li>Neugeborene- gastrischer oder polyphasischer Schlafrythmus</li>
-<li>Individuelle unterschiede im Schlaf- Wachrythmus= Biorythmus</li>
-</ul>
-<h1 id="schlafzyklus">Schlafzyklus</h1>
-<ul>
-<li>Stadium W -Wachzustand</li>
-<li>Schlafstadium N1- Einschlafphase</li>
-<li>Schlafstadium N2- stabilder Schlaf</li>
-<li>Schlafstadium N3- Tiefschlafphase</li>
-<li>Schlafstadium R- REM Schlafphase</li>
-</ul>
-]]></content:encoded>
-    </item>
+    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/puls/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Herz und Blut</title>
       <link>http://localhost:1313/posts/mp1/herz_blut/</link>
