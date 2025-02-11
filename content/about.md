@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-date: 2022-07-16
+date: 2025-02-11
 ---
 
 FutureNursing.at is made by a group of enthusiastic individuals looking to provide practical nursing infos for the end user. We are ongoing nurses in education... generally people with healthcare knowledge and work in the field.
