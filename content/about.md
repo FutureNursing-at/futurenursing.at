@@ -15,3 +15,11 @@ Benevolent dictator for life @FutureNursing.at. Ongoing Nurse.
 **Website**: [conorz.at](https://conorz.at)\
 **Matrix**: [@titanz:conorz.at](https://matrix.to/#/@titanz:conorz.at)\
 **Email**: [titanz@pm.me](mailto:titanz@pm.me)
+
+---
+
+### Angelina
+
+magnificent, unique, cute. three simple words to describe this one of a kind human.
+**Email**:[angelinakrieger1206@gmail.com](mailto:angelinakrieger1206@gmail.com)
+**Instagram**: [@angiekrgr](https://instagram.com/angiekrgr)
