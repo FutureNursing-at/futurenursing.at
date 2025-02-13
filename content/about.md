@@ -21,5 +21,6 @@ Benevolent dictator for life @FutureNursing.at. Ongoing Nurse.
 ### Angelina
 
 magnificent, unique, cute. three simple words to describe this one of a kind human.
-**Email**:[angelinakrieger1206@gmail.com](mailto:angelinakrieger1206@gmail.com)
+
+**Email**: [angelinakrieger1206@gmail.com](mailto:angelinakrieger1206@gmail.com)\
 **Instagram**: [@angiekrgr](https://instagram.com/angiekrgr)
